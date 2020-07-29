@@ -18,7 +18,7 @@ class Solution:
 
 # Test program 
 arr = [1, 2, 2, 2, 2, 3, 4, 7, 8, 8] 
-target = 9
+target = 2
 
 sol = Solution().getRange(arr, target)
 print(sol)
